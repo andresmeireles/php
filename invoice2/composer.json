@@ -1,0 +1,12 @@
+{
+    "name": "andre/invoice2",
+    "authors": [
+        {
+            "name": "André",
+            "email": "andre2meireles@gmail.com"
+        }
+    ],
+    "require": {
+        "contributte/invoice": "^3.0"
+    }
+}

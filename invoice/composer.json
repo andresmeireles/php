@@ -1,0 +1,12 @@
+{
+    "name": "andre/invoice",
+    "authors": [
+        {
+            "name": "André",
+            "email": "andre2meireles@gmail.com"
+        }
+    ],
+    "require": {
+        "konekt/pdf-invoice": "^1.3"
+    }
+}
