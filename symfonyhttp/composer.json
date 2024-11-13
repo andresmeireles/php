@@ -1,7 +1,7 @@
 {
     "name": "andre/symfonyhttp",
     "require": {
-        "symfony/http-client": "^4.3"
+        "symfony/http-client": "^5.4"
     },
     "require-dev": {
         "symfony/var-dumper": "^4.3"
